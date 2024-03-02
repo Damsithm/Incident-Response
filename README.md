@@ -1,1 +1,1 @@
-# Incident-Response-
+# Incident response - (IR) entails the systematic approach adopted by an organization to manage and address a data breach or cyberattack promptly. The objective is to swiftly detect the attack, mitigate its impact, confine the damage, and rectify the root cause, thereby diminishing the likelihood of future incidents.
